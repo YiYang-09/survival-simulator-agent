@@ -5,6 +5,12 @@ hosted by [Ambolt AI](https://ambolt.io/) (17–20 September 2026), with WASP as
 
 **Final result: 1016.88 points, 42nd of 82 teams.**
 
+![The agent playing the first 400 simulated seconds](demo.gif)
+
+*The submitted agent, seed 1019. Grey dots are my herbivores, red are predators, green are
+fruit; the coloured regions are biomes that change movement cost and fruit spawn rate. The
+population grows from the 5 founders while predators start appearing around t≈200s.*
+
 The task: you control an entire species of herbivores in a partially observable 2D world.
 Every tick the server sends each agent's local observations and you return its action —
 move, turn, and whether to reproduce. The run ends when the species goes extinct or 3000
