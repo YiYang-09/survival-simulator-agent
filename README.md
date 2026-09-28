@@ -3,7 +3,18 @@
 My entry for the **survival-simulator** use case of the [Nordic AI Cup 2026](https://nordicaicup.com),
 hosted by [Ambolt AI](https://ambolt.io/) (17–20 September 2026), with WASP as the Swedish partner.
 
-**Final result: 1016.88 points, 42nd of 82 teams.**
+## Result
+
+**🇸🇪 5th place in Sweden on this use case — 10 championship points.**
+
+| | |
+|---|---|
+| Final score | **1016.88** (average of the organizers' evaluation runs) |
+| Sweden ranking | **5th** — 10 points under the F1-style scoring used for the cup |
+| Overall ranking | 42nd of 82 teams |
+
+The cup awards points per use case the way Formula 1 does (1st = 25, 2nd = 18, 3rd = 15,
+4th = 12, **5th = 10**, …), so each challenge is ranked on its own.
 
 ![The agent playing the first 400 simulated seconds](demo.gif)
 
